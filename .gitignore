@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+data/UCI HAR Dataset/
+data/*.zip
+data/__MACOSX/
